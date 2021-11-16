@@ -1,4 +1,4 @@
 {
     "allocationPolicies": [],
-    "maxSimultaneousDistributions": 100
+    "maxSimultaneousDistributions": 30
 }
